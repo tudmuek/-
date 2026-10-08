@@ -1,0 +1,6 @@
+{
+  "name": "LINE Stock Manager - ระบบจัดการสต๊อกผ่าน LINE OA",
+  "description": "ระบบจัดการสต๊อกสินค้าแบบเรียลไทม์ สั่งการและอัปเดตยอดสินค้าผ่าน LINE Official Account พร้อมระบบแจ้งเตือนสินค้าใกล้หมดอัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
